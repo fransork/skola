@@ -1,0 +1,17 @@
+body{
+	background-color: dimgray;
+	font-size: 20px;
+}
+
+h1{
+	color: blueviolet;
+	font-size: 35px;
+}
+
+#tjenare{
+	background-color: beige;
+
+}
+.tjenixen{
+	background-color: steelblue;
+}
