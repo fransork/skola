@@ -1,0 +1,13 @@
+body{	
+	background-color: darkgreen;
+}
+table, th{
+	border-collapse: collapse;
+	border: 2px solid black;
+}
+th{
+	background-color: white;
+}
+img{
+	width: 100%;
+}
